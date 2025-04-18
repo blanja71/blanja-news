@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blanja71.github.io/blanja-news/sitemap.xml
